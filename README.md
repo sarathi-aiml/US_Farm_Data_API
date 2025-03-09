@@ -1,5 +1,5 @@
 # US Farm Data API Documentation
-https://USFD-API.USFarmData.org:8082
+(https://usfd-api.usfarmdata.org/docs)
 
 (Private and IP Restricted, Contact US Farm Data for Access to this API endpoint)
 
